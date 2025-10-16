@@ -1,0 +1,4 @@
+[submodule "COAS-2025/c-backend-api"]
+	path = COAS-2025/c-backend-api
+	url = https://github.com/mshily/c-backend-api.git
+	branch = main
