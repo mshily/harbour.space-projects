@@ -6,3 +6,7 @@
 	path = COAS-2025/assembly-compiler
 	url = https://github.com/mshily/assembly-compiler.git
 	branch = main
+[submodule "COAS-2025/assembly-bubble-sort"]
+	path = COAS-2025/assembly-bubble-sort
+	url = https://github.com/mshily/assembly-bubble-sort.git
+	branch = main
