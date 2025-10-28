@@ -10,3 +10,6 @@
 	path = COAS-2025/assembly-bubble-sort
 	url = https://github.com/mshily/assembly-bubble-sort.git
 	branch = main
+[submodule "databases"]
+	path = databases
+	url = https://github.com/mshily/HS-DATABASES.git
